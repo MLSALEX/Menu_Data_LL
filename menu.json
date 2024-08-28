@@ -47,6 +47,46 @@
       "price": "16.5",
       "image": "https://github.com/MLSALEX/Menu_Data_LL/blob/main/images/lasagne.jpg?raw=true",
       "category": "mains"
+    },
+    {
+	    "id": 7,
+      "title": "Black tea",
+      "description": "Robust and invigorating, our Black Tea features a deep amber color and a rich, malty flavor.",
+      "price": "3.50",
+      "image": "https://github.com/MLSALEX/Menu_Data_LL/blob/main/images/blackTea.jpg?raw=true",
+      "category": "drinks"
+    },
+    {
+    	"id": 8,
+      "title": "Green tea",
+      "description": "Delicate and refreshing, our Green Tea offers a subtle floral aroma with a light, clean taste.",
+      "price": "3.50",
+      "image": "https://github.com/MLSALEX/Menu_Data_LL/blob/main/images/greenTea.jpg?raw=true",
+      "category": "drinks"
+    },
+    {
+    	"id": 9,
+      "title": "Espresso",
+      "description": "Intense and aromatic, our Espresso boasts a rich crema and a bold flavor profile, with notes of dark chocolate.",
+      "price": "5.00",
+      "image": "https://github.com/MLSALEX/Menu_Data_LL/blob/main/images/espresso.jpg?raw=true",
+      "category": "drinks"
+    },
+    {
+    	"id": 10,
+      "title": "Cappuccino",
+      "description": "Creamy and comforting, our Cappuccino combines perfectly frothed milk with a strong espresso base, dusted with a hint of cocoa.",
+      "price": "8.00",
+      "image": "https://github.com/MLSALEX/Menu_Data_LL/blob/main/images/cappuccino.jpg?raw=true",
+      "category": "drinks"
+    },
+    {
+    	"id": 11,
+      "title": "Croissant",
+      "description": "Authentic Italian Croissant, golden, with a soft, airy interior. Perfect for an indulgent breakfast.",
+      "price": "7",
+      "image": "https://github.com/MLSALEX/Menu_Data_LL/blob/main/images/croissant.jpg?raw=true",
+      "category": "dessert"
     }
   ]
 }
