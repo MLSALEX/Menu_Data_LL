@@ -39,6 +39,14 @@
       "price": "18",
       "image": "https://github.com/MLSALEX/Menu_Data_LL/blob/main/images/grilledFish.jpg?raw=true",
       "category": "mains"
+    },
+    {
+      "id": 6,
+      "title": "Lasagne",
+      "description": "Oven-baked layers of pasta stuffed with Bolognese sauce, béchamel sauce, ham, Parmesan & mozzarella cheese.",
+      "price": "16.5",
+      "image": "https://github.com/MLSALEX/Menu_Data_LL/blob/main/images/lasagne.jpg?raw=true",
+      "category": "mains"
     }
   ]
 }
